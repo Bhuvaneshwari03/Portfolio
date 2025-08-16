@@ -45,7 +45,9 @@ Any new commits pushed to the `main` branch will trigger an automatic deployment
 
 4. Open index.html in your browser.
 
-🛠️ Technologies Used
+---
+
+## 🛠️ Technologies Used
 1. HTML5
 2. CSS3
 3. JavaScript
